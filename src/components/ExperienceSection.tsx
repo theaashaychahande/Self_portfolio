@@ -23,20 +23,20 @@ const universes = [
     experiences: [
       {
         company: 'Microsoft',
-        role: 'AI Research Intern',
-        period: '2023 - Present',
+        role: 'AI Developer trainee',
+        period: '2 months',
         description: 'Developed cutting-edge AI solutions for healthcare applications, working with neural networks and computer vision.',
-        technologies: ['Python', 'PyTorch', 'Computer Vision', 'Azure AI'],
-        achievements: ['Improved model accuracy by 23%', 'Deployed 3 production models'],
+        technologies: ['Python', 'PyTorch', 'Computer Vision'],
+        achievements: ['Learn to handle LLMs', 'Worked contributively with ML models'],
         icon: Building2
       },
       {
         company: 'Phoenix Algo',
-        role: 'Machine Learning Engineer',
-        period: '2022 - 2023',
-        description: 'Built automated trading algorithms using deep learning and quantitative analysis.',
-        technologies: ['TensorFlow', 'Pandas', 'Algorithmic Trading', 'Financial Modeling'],
-        achievements: ['Generated 15% better returns', 'Reduced processing time by 40%'],
+        role: 'Founder-Lead tutor',
+        period: '2025 - present',
+        description: ' I oversee the company vision and deliver high-quality education onto various technologies and tech stacks',
+        technologies: ['Java-DSA', 'tutoring', 'py-lib', 'Management '],
+        achievements: ['Developed interpersonal skills', 'Guided many student'],
         icon: Code
       }
     ]
