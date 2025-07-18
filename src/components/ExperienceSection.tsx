@@ -48,21 +48,21 @@ const universes = [
     color: 'secondary',
     experiences: [
       {
-        company: 'Freelance Design Studio',
-        role: 'UI/UX Designer & Brand Strategist',
-        period: '2021 - Present',
+        company: 'Upwork',
+        role: 'UI/UX Designer',
+        period: '2021 - 2022',
         description: 'Creating digital experiences that bridge technology and human emotion through thoughtful design.',
-        technologies: ['Figma', 'Adobe Creative Suite', 'Prototyping', 'Design Systems'],
-        achievements: ['50+ successful projects', 'Client satisfaction: 98%'],
+        technologies: ['Figma','Prototyping', 'Design Systems'],
+        achievements: ['10+ successful projects', 'Client satisfaction'],
         icon: Palette
       },
       {
-        company: 'Creative Collective',
-        role: 'Visual Communication Lead',
-        period: '2022 - 2023',
-        description: 'Led creative campaigns that transformed brand narratives through innovative visual storytelling.',
-        technologies: ['Brand Strategy', 'Visual Design', 'Motion Graphics', 'Creative Direction'],
-        achievements: ['Increased brand engagement by 150%', 'Award-winning campaigns'],
+        company: 'freelancer',
+        role: 'Visual Artist-Graphics designer',
+        period: '2019 - 2023',
+        description: ' specialized in creating a wide range of visual designs, including political posters, branding, logos, marketing materials, and social media graphics',
+        technologies: ['Visual Design', 'Motion Graphics', 'Creative Direction'],
+        achievements: ['Increased brand engagement', '15+ projects submitted'],
         icon: Award
       }
     ]
@@ -74,21 +74,21 @@ const universes = [
     color: 'accent',
     experiences: [
       {
-        company: 'E-Cell PICT',
-        role: 'Executive Committee Member',
-        period: '2022 - Present',
-        description: 'Building entrepreneurial ecosystems and fostering innovation among student communities.',
+        company: 'E-Cell SVPCVET ',
+        role: 'Operation Committee Member',
+        period: '2025 - Present',
+        description: 'focus on optimizing workflows, improving efficiency, and ensuring smooth execution of various initiatives',
         technologies: ['Event Management', 'Community Building', 'Public Speaking', 'Strategic Planning'],
-        achievements: ['Organized 20+ events', 'Mentored 100+ students'],
+        achievements: ['Improved Public speaking', 'Program Management'],
         icon: Users
       },
       {
         company: 'Internshala',
         role: 'Student Partner & Campus Ambassador',
-        period: '2021 - 2022',
+        period: '2025 - present',
         description: 'Bridged the gap between students and industry through educational initiatives and career guidance.',
         technologies: ['Educational Technology', 'Career Counseling', 'Workshop Facilitation', 'Partnership Development'],
-        achievements: ['Reached 1000+ students', 'Top performer recognition'],
+        achievements: ['Reached 100+ students', 'affiliated to manys'],
         icon: GraduationCap
       }
     ]
