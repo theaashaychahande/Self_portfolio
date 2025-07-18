@@ -44,8 +44,8 @@ const skillCategories = [
     description: 'Full-stack development with modern technologies',
     chips: [
       { name: 'Python', level: 95, icon: Code, description: 'Primary language for AI/ML and backend development' },
-      { name: 'JavaScript', level: 88, icon: Globe, description: 'Modern ES6+, Node.js, Frontend frameworks' },
-      { name: 'React', level: 90, icon: Monitor, description: 'Component-based frontend development' },
+      { name: 'Java', level: 85, icon: Globe, description: 'Modern apps, DSA, Kotlin' },
+      { name: 'C++', level: 80, icon: Monitor, description: 'Component-based backend development' },
       { name: 'SQL', level: 85, icon: Database, description: 'Database design and complex queries' },
       { name: 'Git', level: 92, icon: GitBranch, description: 'Version control and collaborative development' }
     ]
