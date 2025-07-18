@@ -16,45 +16,45 @@ import {
 const timelineData = [
   {
     year: '2019',
-    type: 'academic',
-    title: 'Started Computer Engineering',
-    description: 'Started freelance as User interface designer, discovering the creative sides',
-    icon: GraduationCap
-  },
-  {
-    year: '2021',
     type: 'creative',
-    title: 'Design Awakening',
+    title: 'Freelance Graphic Design',
     description: 'Started freelance graphic design, discovering the creative side',
     icon: Palette
   },
   {
-    year: '2022',
-    type: 'academic',
-    title: 'AI Specialization',
-    description: 'Deep dive into Machine Learning and Neural Networks',
-    icon: Brain
-  },
-  {
-    year: '2022',
-    type: 'leadership',
-    title: 'E-Cell Leadership',
-    description: 'Leading entrepreneurship initiatives and building communities',
-    icon: Users
+    year: '2021',
+    type: 'creative',
+    title: 'UI Design Freelancing',
+    description: 'Started freelance as User interface designer, discovering the creative sides',
+    icon: Palette
   },
   {
     year: '2023',
-    type: 'technical',
-    title: 'Microsoft AI Internship',
-    description: 'Built AI solutions for real-world problems',
-    icon: Briefcase
+    type: 'academic',
+    title: 'AI Learning Journey',
+    description: 'Started learning AI and machine learning',
+    icon: Brain
   },
   {
     year: '2024',
-    type: 'creative',
-    title: 'Design-Tech Fusion',
-    description: 'Merged AI engineering with creative design thinking',
-    icon: Zap
+    type: 'leadership',
+    title: 'Microsoft Collaboration',
+    description: 'Worked in the collaboration project of Microsoft community',
+    icon: Users
+  },
+  {
+    year: '2025',
+    type: 'leadership',
+    title: 'Student Communities',
+    description: 'Started working in various student communities actively',
+    icon: Users
+  },
+  {
+    year: '2025',
+    type: 'technical',
+    title: 'Ed-Tech Venture',
+    description: 'Started my own Ed-Tech agency "Phoenix Algo"',
+    icon: Briefcase
   }
 ];
 
@@ -133,7 +133,7 @@ export const AboutSection = () => {
                         </div>
                         <span className="text-sm font-bold text-muted-foreground">{item.year}</span>
                       </div>
-                      <h4 className="text-lg font-bold mb-2">Started freelancing</h4>
+                      <h4 className="text-lg font-bold mb-2">{item.title}</h4>
                       <p className="text-sm text-muted-foreground">{item.description}</p>
                     </Card>
                   </div>
